@@ -27,7 +27,7 @@ Las credenciales para utilizar esta web app son las siguientes:
 * ![react](/readme/react.svg) [React JS](https://reactjs.org/docs/getting-started.html)
 * ![ionic](/readme/ionic.svg) [Ionic Framework](https://ionicframework.com/docs/)
 * ![css](/readme/css3.svg) CSS
-* ![javascript] (/readme/javascript.svg)Javascript
+* ![javascript](/readme/javascript.svg) Javascript
 
 ## Replicar localmente
 
