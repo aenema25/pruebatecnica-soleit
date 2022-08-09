@@ -1,0 +1,13 @@
+ion-content{
+    --ion-background-color:#EDF2F4;
+}
+ion-card{
+    --ion-background-color:#ffff;
+    border-radius: 20px;
+    border-top: 5px solid #3D5A80 ;
+    border-bottom: 5px solid #3D5A80 ;
+}
+ion-toolbar {
+    border-bottom: 3px solid #3D5A80 ;
+
+}

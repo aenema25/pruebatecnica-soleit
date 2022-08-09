@@ -1,0 +1,7 @@
+{
+  "name": "pruebatecnica-soleit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

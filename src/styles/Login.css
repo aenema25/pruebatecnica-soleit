@@ -1,0 +1,25 @@
+.login-container {
+    background-color: #EDF2F4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.login-card {
+    border-top: 5px solid #3D5A80 ;
+    border-bottom: 5px solid #3D5A80 ;
+    border-radius: 20px;
+}
+.header-title {
+    font-size: 1.8em;
+    font-weight: 900;
+}
+.alert-title{
+    text-align: center;
+    font-weight: 900 !important;
+    font-size: 1.8em !important;
+}
+.alert-wrapper {
+    border-radius: 20px !important;
+}
