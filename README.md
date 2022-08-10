@@ -12,7 +12,7 @@ Prueba técnica para la empresa "Soleit" que consiste en una web app creada con 
 
 ## Live versión
 
-* [Netlify]()
+* [Netlify](https://pruebatecnica-soleit.netlify.app/)
 
 ## Credenciales
 
